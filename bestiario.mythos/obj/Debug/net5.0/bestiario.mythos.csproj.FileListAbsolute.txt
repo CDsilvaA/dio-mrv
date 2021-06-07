@@ -1,0 +1,16 @@
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.csproj.AssemblyReference.cache
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.AssemblyInfoInputs.cache
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.AssemblyInfo.cs
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.csproj.CoreCompileInputs.cache
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/bestiario.mythos
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/bestiario.mythos.deps.json
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/bestiario.mythos.runtimeconfig.json
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/bestiario.mythos.runtimeconfig.dev.json
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/bestiario.mythos.dll
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/ref/bestiario.mythos.dll
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/bin/Debug/net5.0/bestiario.mythos.pdb
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.dll
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/ref/bestiario.mythos.dll
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.pdb
+/mnt/c/Users/cdpra/Dev/DIO_MRV/bestiario.mythos/obj/Debug/net5.0/bestiario.mythos.genruntimeconfig.cache
